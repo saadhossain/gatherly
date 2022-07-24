@@ -13,3 +13,10 @@
     left: 350px;
 
 }
+.packages li{
+    list-style: none;
+    margin-bottom:10px;
+}
+.featured{
+    
+}
