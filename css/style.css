@@ -24,5 +24,11 @@ body {
     list-style: none;
     margin-bottom: 10px;
 }
-
-.featured {}
+footer{
+    background-color: black;
+    color:#fff;
+}
+.footer-brand img{
+    width: 40px;
+    height: 40px;
+}
