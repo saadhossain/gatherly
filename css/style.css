@@ -1,7 +1,15 @@
-.navbar-brand img{
+.navbar-brand img {
     height: 50px;
-    width:50px;
+    width: 50px;
 }
-.carousel-caption{
-    padding:0px 150px;
+
+.carousel-caption {
+    padding: 0px 150px;
+}
+
+.discount {
+    position: relative;
+    top: -200px;
+    left: 350px;
+
 }
